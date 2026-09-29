@@ -1,3 +1,4 @@
+[SKILL.md](https://github.com/user-attachments/files/32810916/SKILL.md)
 ---
 name: "zero-drift-ironlaw"
 description: "Stops AI drift/hallucination/leakage/tool loops with mandatory R1-R10 pre-delivery reflection. Install as global rule so every task and conversation follows it."
