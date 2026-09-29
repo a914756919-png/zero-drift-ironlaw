@@ -1,3 +1,4 @@
+[zero-drift-ironlaw.md](https://github.com/user-attachments/files/32811001/zero-drift-ironlaw.md)
 # 强制零漂移铁律 v2.6 —— 全局规则（所有对话强制生效）
 
 ## 每次回复必须
